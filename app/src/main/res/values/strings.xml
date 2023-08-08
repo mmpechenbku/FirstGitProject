@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">FirstApp</string>
-    <string name="my_first_git_project">my first git project</string>
+    <string name="first_git_project">first git project</string>
 </resources>
